@@ -1,0 +1,30 @@
+.body {
+        font-family: cursive;
+}
+body{
+    background-color: beige;
+}
+.box {
+  border: 3px solid black;
+  margin: 10px;
+  padding: 10px;
+}
+de{
+    color: blue;
+}
+
+.image1 {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.image2 {
+    display: block;
+    margin: auto;
+}
+
+.boldlist {
+    font-weight: bold;
+}
